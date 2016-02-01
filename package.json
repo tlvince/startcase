@@ -26,11 +26,9 @@
   "dependencies": {
     "deromanize": "^0.1.0",
     "indicesof": "0.0.2",
-    "lodash.startcase": "^4.0.1",
     "lodash.tolower": "^4.0.1",
     "lodash.upperfirst": "^4.0.1",
-    "lodash.words": "^3.1.1",
-    "titlecase": "^1.0.2"
+    "lodash.words": "^3.1.1"
   },
   "devDependencies": {
     "standard": "^5.4.1",
